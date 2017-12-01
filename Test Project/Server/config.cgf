@@ -1,0 +1,4 @@
+servername=Server
+port=41014
+maxcount=16
+motd=This is a server.
